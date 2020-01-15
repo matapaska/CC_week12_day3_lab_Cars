@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33cf529b-1102-4ac9-a2f3-432010995020" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/carComponents/Battery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/carComponents/Battery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/carComponents/Body.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/carComponents/Body.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/carComponents/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/carComponents/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/carComponents/BodyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/carComponents/BodyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/carComponents/EngineTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/carComponents/EngineTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,19 +22,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/dealership/Dealership.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/carComponents/BatteryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="75">
+              <caret line="5" column="44" lean-forward="true" selection-end-line="21" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#144#145#0" expanded="true" />
@@ -46,28 +38,63 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/carComponents/Body.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="e#103#104#0" expanded="true" />
+                <element signature="e#139#140#0" expanded="true" />
+                <element signature="e#172#173#0" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/carComponents/BodyTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            <state relative-caret-position="270">
+              <caret line="18" column="25" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#196#197#0" expanded="true" />
+                <element signature="e#231#232#0" expanded="true" />
+                <element signature="e#273#274#0" expanded="true" />
+                <element signature="e#330#331#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/carComponents/EngineTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+            <state relative-caret-position="270">
+              <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#291#292#0" expanded="true" />
+                <element signature="e#349#350#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/carComponents/TyresTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/carComponents/Engine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+            <state relative-caret-position="150">
+              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+              <folding>
+                <element signature="e#108#109#0" expanded="true" />
+                <element signature="e#140#141#0" expanded="true" />
+                <element signature="e#198#199#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -142,6 +169,10 @@
         <option value="$PROJECT_DIR$/src/main/java/cars/GasCar.java" />
         <option value="$PROJECT_DIR$/src/main/java/carComponents/Battery.java" />
         <option value="$PROJECT_DIR$/src/test/java/carComponents/BatteryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/carComponents/Body.java" />
+        <option value="$PROJECT_DIR$/src/test/java/carComponents/BodyTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/carComponents/Engine.java" />
+        <option value="$PROJECT_DIR$/src/test/java/carComponents/EngineTest.java" />
       </list>
     </option>
   </component>
@@ -192,7 +223,37 @@
               <item name="CodeClanCars" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodeClanCars_lab" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeClanCars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeClanCars_lab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="carComponents" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeClanCars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeClanCars_lab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeClanCars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeClanCars_lab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeClanCars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeClanCars_lab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="carComponents" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -218,7 +279,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.All in CodeClanCars_lab">
+    <configuration name="All in CodeClanCars_lab" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeClanCars_lab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BatteryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodeClanCars_lab" />
       <extension name="coverage">
@@ -234,8 +303,60 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BodyTest.hasVoltage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeClanCars_lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="carComponents.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="carComponents" />
+      <option name="MAIN_CLASS_NAME" value="carComponents.BodyTest" />
+      <option name="METHOD_NAME" value="hasVoltage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EngineTest.hasVoltage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeClanCars_lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="carComponents.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="carComponents" />
+      <option name="MAIN_CLASS_NAME" value="carComponents.EngineTest" />
+      <option name="METHOD_NAME" value="hasVoltage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TyresTest.hasVoltage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeClanCars_lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="carComponents.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="carComponents" />
+      <option name="MAIN_CLASS_NAME" value="carComponents.TyresTest" />
+      <option name="METHOD_NAME" value="hasVoltage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in CodeClanCars_lab" />
+        <item itemvalue="JUnit.TyresTest.hasVoltage" />
+        <item itemvalue="JUnit.EngineTest.hasVoltage" />
+        <item itemvalue="JUnit.BodyTest.hasVoltage" />
         <item itemvalue="JUnit.BatteryTest" />
       </list>
     </recent_temporary>
@@ -253,6 +374,20 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="BatteryTest - 2020.01.15 at 13h 40m 09s.xml">
+      <configuration name="BatteryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BodyTest_hasVoltage - 2020.01.15 at 13h 45m 15s.xml">
+      <configuration name="BodyTest.hasVoltage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_CodeClanCars_lab - 2020.01.15 at 13h 45m 36s.xml">
+      <configuration name="All in CodeClanCars_lab" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EngineTest_hasVoltage - 2020.01.15 at 13h 49m 06s.xml">
+      <configuration name="EngineTest.hasVoltage" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="723" extended-state="0" />
     <editor active="true" />
@@ -262,14 +397,15 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.3296355" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3296355" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -288,24 +424,10 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/carComponents/Engine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/carComponents/Tyres.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/carComponents/Body.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -341,20 +463,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/carComponents/BodyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/carComponents/EngineTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -405,16 +513,70 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/carComponents/Body.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#103#104#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/carComponents/BatteryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="75">
+          <caret line="5" column="44" lean-forward="true" selection-end-line="21" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#144#145#0" expanded="true" />
             <element signature="e#185#186#0" expanded="true" />
             <element signature="e#250#251#0" expanded="true" />
             <element signature="e#272#273#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/carComponents/Engine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding>
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/carComponents/BodyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="25" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/carComponents/EngineTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
           </folding>
         </state>
       </provider>
